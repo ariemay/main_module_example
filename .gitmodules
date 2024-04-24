@@ -1,0 +1,3 @@
+[submodule "htmlView"]
+	path = htmlView
+	url = https://github.com/ariemay/sub_module_example.git
